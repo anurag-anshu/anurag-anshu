@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuraganshu27" target="blank"><img src="https://img.shields.io/twitter/follow/anuraganshu27?logo=twitter&style=for-the-badge" alt="anuraganshu27" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Networking and Cybersecurity Tools**
+- 🌱 I’m currently learning **Machine Learning Technologies**
 
 - 📫 How to reach me **anuraganshu7410@gmail.com**
 
