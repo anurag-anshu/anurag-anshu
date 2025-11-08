@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Anshu</h1>
-<h3 align="center">A passionate Machine Learning Researcher from India</h3>
+<h3 align="center">A passionate IoT, Embedded Systems, and automation Researcher from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuraganshu27" target="blank"><img src="https://img.shields.io/twitter/follow/anuraganshu27?logo=twitter&style=for-the-badge" alt="anuraganshu27" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning Technologies**
+- 🌱 I’m currently learning **IoT and Automation Technologies**
 
 - 📫 How to reach me **anuraganshu7410@gmail.com**
 
@@ -19,9 +19,6 @@
 <a href="https://linkedin.com/in/anuraganshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuraganshu" height="30" width="40" /></a>
 <a href="https://fb.com/anuraganshu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuraganshu27" height="30" width="40" /></a>
 <a href="https://instagram.com/anuraganshu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuraganshu_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anuraganshu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anuraganshu27" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anuraganshu7410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuraganshu7410" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anuraganshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuraganshu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
